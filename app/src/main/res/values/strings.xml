@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResEx</string>
+    <string name="c_red">Red</string>
+    <string name="c_green">Green</string>
+    <string name="c_blue">Blue</string>
+    <string name="c_Yellow">Yellow</string>
+    <string name="title_activity_road2">Road2</string>
+
+</resources>
